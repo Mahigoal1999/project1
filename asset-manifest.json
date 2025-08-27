@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mahigoal1999/project1.git/static/css/main.f855e6bc.css",
+    "main.js": "/Mahigoal1999/project1.git/static/js/main.628201fb.js",
+    "static/js/453.95e96046.chunk.js": "/Mahigoal1999/project1.git/static/js/453.95e96046.chunk.js",
+    "static/media/logo.svg": "/Mahigoal1999/project1.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mahigoal1999/project1.git/index.html",
+    "main.f855e6bc.css.map": "/Mahigoal1999/project1.git/static/css/main.f855e6bc.css.map",
+    "main.628201fb.js.map": "/Mahigoal1999/project1.git/static/js/main.628201fb.js.map",
+    "453.95e96046.chunk.js.map": "/Mahigoal1999/project1.git/static/js/453.95e96046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.628201fb.js"
+  ]
+}
