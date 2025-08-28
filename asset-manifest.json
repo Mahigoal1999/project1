@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mahigoal1999/project1.git/static/css/main.f855e6bc.css",
-    "main.js": "/Mahigoal1999/project1.git/static/js/main.5bd0f060.js",
+    "main.css": "/Mahigoal1999/project1.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Mahigoal1999/project1.git/static/js/main.d59d2144.js",
     "static/js/453.95e96046.chunk.js": "/Mahigoal1999/project1.git/static/js/453.95e96046.chunk.js",
     "index.html": "/Mahigoal1999/project1.git/index.html",
-    "main.f855e6bc.css.map": "/Mahigoal1999/project1.git/static/css/main.f855e6bc.css.map",
-    "main.5bd0f060.js.map": "/Mahigoal1999/project1.git/static/js/main.5bd0f060.js.map",
+    "main.e6c13ad2.css.map": "/Mahigoal1999/project1.git/static/css/main.e6c13ad2.css.map",
+    "main.d59d2144.js.map": "/Mahigoal1999/project1.git/static/js/main.d59d2144.js.map",
     "453.95e96046.chunk.js.map": "/Mahigoal1999/project1.git/static/js/453.95e96046.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5bd0f060.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d59d2144.js"
   ]
 }
